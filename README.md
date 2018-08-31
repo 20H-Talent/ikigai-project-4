@@ -39,7 +39,7 @@ In this project, we’ve provided an index.html file with a set of class names a
 
 #### Create a partial for variables in your utilities folder 
 
-- Use this partial to create variables for your repeated values. At minimum, create variables for fonts, breakpoints, and colors. Import this partial into your utilities/index.scss file 
+- Use this partial to create variables for your repeated values. At minimum, create variables for fonts, breakpoints, and colors. Import this partial into your utilities/_index.scss file 
 
 #### Create a partial for your mixins in your utilities folder 
 
